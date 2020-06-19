@@ -1,10 +1,16 @@
-# weDevs-que-5-VUEX
+## TODOS
 
-## Project setup
+A simple todo app using vue & vuex.
 
-To run the project clone the repo & go to the project folder and type these commands.
+### Demo Link
 
-```
-npm install
-npm run serve
-```
+link: []()
+
+### Technologies Used
+
+- Vue
+- Vuex
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
